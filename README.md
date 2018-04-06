@@ -7,3 +7,4 @@ Display movies, and watch their trailers. Completed as part of the Udacity Full 
 * A browser window should open at this point, if not - run _entertainment_center.py_ again
 * Click on a movie to have its trailer play in a popup!
 
+![Alt text](/screenshots/Dashboard.png)
