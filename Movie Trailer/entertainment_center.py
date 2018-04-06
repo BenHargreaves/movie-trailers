@@ -44,7 +44,8 @@ ex_machina = media.Movie('Ex Machina',
                          'https://youtu.be/XYGzRB4Pnq8')
 
 
-#add movies to list to make the call to open_movies_page (fresh_tomatoes module) cleaner
+#add movies to list to make the call to open_movies_page(fresh_tomatoes module) cleaner
 movies = [the_ritual, annihilation, it_movie, the_matrix, interstellar, ex_machina]
 
+# Fresh tomatoes module generates an HTML page to display the movies array info, and their trailers
 fresh_tomatoes.open_movies_page(movies)
